@@ -1,0 +1,1 @@
+void	enVigenere(char key[]);

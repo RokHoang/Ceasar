@@ -1,0 +1,1 @@
+void	deVigenere(char key[]);
